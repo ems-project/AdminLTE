@@ -70,4 +70,5 @@ test.html
 ad.js
 /.cache/
 /plugins/
-/dist/
+/dist/css/
+/dist/js/
