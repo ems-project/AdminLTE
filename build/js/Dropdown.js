@@ -21,7 +21,7 @@ const SELECTOR_DROPDOWN_MENU = '.dropdown-menu'
 const SELECTOR_DROPDOWN_MENU_ACTIVE = '.dropdown-menu.show'
 const SELECTOR_DROPDOWN_TOGGLE = '[data-toggle="dropdown"]'
 
-const CLASS_NAME_DROPDOWN_RIGHT = 'dropdown-menu-right'
+const CLASS_NAME_DROPDOWN_RIGHT = 'dropdown-menu-end'
 const CLASS_NAME_DROPDOWN_SUBMENU = 'dropdown-submenu'
 
 const Default = {}

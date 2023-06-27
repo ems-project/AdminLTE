@@ -28,9 +28,9 @@ const SELECTOR_CONTAINER_TOP_LEFT = '#toastsContainerTopLeft'
 const SELECTOR_CONTAINER_BOTTOM_RIGHT = '#toastsContainerBottomRight'
 const SELECTOR_CONTAINER_BOTTOM_LEFT = '#toastsContainerBottomLeft'
 
-const CLASS_NAME_TOP_RIGHT = 'toasts-top-right'
+const CLASS_NAME_TOP_RIGHT = 'toasts-top-end'
 const CLASS_NAME_TOP_LEFT = 'toasts-top-left'
-const CLASS_NAME_BOTTOM_RIGHT = 'toasts-bottom-right'
+const CLASS_NAME_BOTTOM_RIGHT = 'toasts-bottom-end'
 const CLASS_NAME_BOTTOM_LEFT = 'toasts-bottom-left'
 
 const POSITION_TOP_RIGHT = 'topRight'
