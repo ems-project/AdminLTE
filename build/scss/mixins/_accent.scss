@@ -15,7 +15,8 @@
     .nav-tabs .nav-link {
       color: $link-color;
 
-      @include hover () {
+      &:hover,
+      &:focus {
         color: $link-hover-color;
       }
     }
@@ -72,7 +73,8 @@
         a:not(.dropdown-item):not(.btn-app):not(.nav-link):not(.brand-link) {
           color: $sidebar-dark-color;
 
-          @include hover () {
+          &:hover,
+          &:focus {
             color: $sidebar-dark-hover-color;
           }
         }
@@ -84,7 +86,8 @@
         a:not(.dropdown-item):not(.btn-app):not(.nav-link):not(.brand-link) {
           color: $sidebar-light-color;
 
-          @include hover () {
+          &:hover,
+          &:focus {
             color: $sidebar-light-hover-color;
           }
         }
