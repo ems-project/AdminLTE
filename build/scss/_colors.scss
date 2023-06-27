@@ -64,7 +64,7 @@
 
 // Text muted hover
 a.text-muted:hover {
-  color: theme-color(primary) !important;
+  color: map-get($theme-colors, primary) !important;
 }
 
 // Link Styles

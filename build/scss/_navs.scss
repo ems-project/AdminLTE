@@ -7,7 +7,7 @@
     color: $gray-600;
 
     &:not(.active):hover {
-      color: theme-color("primary");
+      color: map-get($theme-colors, "primary");
     }
   }
 
